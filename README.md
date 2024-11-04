@@ -1,5 +1,5 @@
 # 💫 About Me:
-Antoine mahassadi<br>developper creatif front end<br>glense.studio<br>hetic
+Antoine mahassadi<br>developper creatif front end<br>hetic
 
 
 ## 🌐 Socials:
