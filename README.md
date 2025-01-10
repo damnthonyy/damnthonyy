@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hello !</h1>
+<h1 align="center">:)</h1>
 
 ###
 
@@ -12,6 +12,6 @@
 
 ###
 
-<h5 align="left">I'm Antoine Mahassadi from Côte d'Ivoire 🇨🇮<br><br>- 📚 I'm a student at hetic<br><br>- 👾 I'm developer front end<br><br>- 🍥 manga enthusiast<br><br>-🎮 e-sport addict<br><br>- 🥸 passionate about creative dev, I want to specialize exclusively in technology and tools such as Gsap, three.js and so on<br><br>-⚒ I gave myself the goal of making one commit per day and so here we go ;)</h5>
+<h5 align="left"> 🇨🇮<br><br> 📚 hetic<br><br>- 👾developer front end<br><br>- 🍥 manga enthusiast<br><br>-🎮 Fc player <br><br>-⚒ I gave myself the goal of making one commit per day and so here we go ;)</h5>
 
 ###
