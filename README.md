@@ -1,5 +1,5 @@
 ## Software Engineer — Full-Stack, Architecture & Developer Experience
-Antoine Mahassadi,
+Antoine Mahassadi 🇨🇮,
 I’m a Software Engineer focused on designing reliable, readable, and scalable systems.  
 I work across the entire software lifecycle — architecture, implementation, automation, code quality, and developer experience.
 
