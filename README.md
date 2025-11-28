@@ -16,7 +16,7 @@ I also build tooling, pipelines, and containerized environments using **Docker**
 and integrate **LLM-powered automation** into development workflows.
 
 ### Currently deepening skills in:
-- **Java & backend fundamentals**  
+- **Java ( springBoot ) & C# (.NET)**  
 - **Software architecture** (layered, feature-based, domain logic)  
 - **Financial software concepts** (robustness, correctness, consistency)  
 - **Testing & CI/CD reliability**  
