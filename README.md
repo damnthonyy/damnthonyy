@@ -7,7 +7,7 @@ I design reliable, readable, and scalable systems across the full software lifec
 **Focus:** modular architecture, strong typing, CI/CD & GitHub Actions, backend APIs, DX tooling, and LLM-powered automation.  
 **Stack:** **NestJS**, **Next**, **Docker**, **Java (Spring Boot)**, **C# (.NET)** and more.
 
-Contributor to **[qodo.ai]([https://github.com/qodo-ai](https://github.com/qodo-ai/pr-agent))**.
+Contributor to **[qodo.ai](https://github.com/qodo-ai/pr-agent)**.
 
 Nominee Awwwards **[antoine-mahassadi-portfolio](https://www.awwwards.com/sites/antoine-mahassadi-portfolio)**.
 
