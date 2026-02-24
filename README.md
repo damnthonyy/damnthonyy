@@ -1,27 +1,20 @@
 ## Software Engineer — Full-Stack, Architecture & Developer Experience
-Antoine Mahassadi 🇨🇮,
-I’m a Software Engineer focused on designing reliable, readable, and scalable systems.  
-I work across the entire software lifecycle — architecture, implementation, automation, code quality, and developer experience.
 
-My engineering approach is based on key principles:  
-- **Software architecture**: modularity, clear boundaries, domain-driven thinking  
-- **Code quality**: strong typing, intention-driven design, consistent patterns  
-- **Automation & tooling**: CI/CD pipelines, GitHub Actions, workflow optimization  
-- **Backend logic & APIs**: domain modeling, clean data flows  
-- **Developer Experience (DX)**: tooling, scripts, standards, automation  
-- **User experience awareness**: clarity, hierarchy, meaningful product flows  
+Antoine Mahassadi 🇨🇮 
 
-I primarily work with **TypeScript**, across both frontend systems and backend logic (Node).  
-I also build tooling, pipelines, and containerized environments using **Docker**,  
-and integrate **LLM-powered automation** into development workflows.
+I design reliable, readable, and scalable systems across the full software lifecycle: architecture, implementation, automation, and developer experience.
 
-### Currently deepening skills in:
-- **Java ( springBoot ) & C# (.NET)**  
-- **Software architecture** (layered, feature-based, domain logic)  
-- **Financial software concepts** (robustness, correctness, consistency)  
-- **Testing & CI/CD reliability**  
-- **Engineering workflows & scalable development practices**
+**Focus:** modular architecture, strong typing, CI/CD & GitHub Actions, backend APIs, DX tooling, and LLM-powered automation.  
+**Stack:** **NestJS**, **Next**, **Docker**, **Java (Spring Boot)**, **C# (.NET)** and more.
 
-### Long-term goal
-To grow into a well-rounded **Software Engineer**, capable of navigating architecture, development, automation, and product-focused thinking — delivering systems that are elegant, stable, and maintainable.
+Contributor to **[qodo.ai](https://github.com/qodo-ai)**.
+
+Nominee Awwwards **[antoine-mahassadi-portfolio](https://www.awwwards.com/sites/antoine-mahassadi-portfolio)**.
+
+currently work at **SGCIB**.
+
+**Goal:** deliver systems that are elegant, stable, and maintainable — from architecture to product.
+
+
+Young, Wild, Free.
 
