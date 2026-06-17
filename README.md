@@ -4,7 +4,8 @@ Antoine Mahassadi 🇨🇮
 
 Contributor to **[qodo.ai](https://github.com/qodo-ai/pr-agent),
 [monocle](https://github.com/monocle2ai/monocle),
- [Spectral](https://github.com/stoplightio/spectral)**.
+ [Spectral](https://github.com/stoplightio/spectral),
+ [Microsoft/vscode](https://github.com/microsoft/vscode)**
 
 
 Nominee Awwwards **[antoine-mahassadi-portfolio](https://www.awwwards.com/sites/antoine-mahassadi-portfolio)**.
