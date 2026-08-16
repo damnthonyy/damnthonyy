@@ -11,7 +11,7 @@ Contributor to **[Qodo.ai](https://github.com/qodo-ai/pr-agent),
 
 Nominee Awwwards **[antoine-mahassadi-portfolio](https://www.awwwards.com/sites/antoine-mahassadi-portfolio)**.
 
-currently work at **Société Générale Corporate and Investment Banking**.
+currently work at **Rhétorès Finance**.
 
 Young, Wild, Free.
 
