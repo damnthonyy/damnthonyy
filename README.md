@@ -2,8 +2,6 @@
 
 Antoine Mahassadi 🇨🇮
 
-Awwwards nominee: [antoine-mahassadi-portfolio](https://www.awwwards.com/sites/antoine-mahassadi-portfolio)
-
 Currently working at **Rhétorès Finance**.
 
 ### Open-Source Contributions
